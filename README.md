@@ -1,4 +1,4 @@
 # gui description 
 # soon....
 #npm start
-# npm install
+# npm install all in
