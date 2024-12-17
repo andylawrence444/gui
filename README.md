@@ -1,5 +1,5 @@
 # gui description 
 # soon....
 #npm start
-# npm install all
-# docker run
+# npm install 
+# docker
