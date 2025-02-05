@@ -2,4 +2,4 @@
 # soon....
 #npm start
 # npm install 
-# docker 1
+# docker 12
